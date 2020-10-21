@@ -7,7 +7,11 @@
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sabrinassantos&theme=buefy"/></td>
     </tr>   
 </table>
+    
+<a href="www.linkedin.com/in/sabrinasantossilva"><img src="/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/sabrinasantossilva)
 </center>  
+
+
 <!--
 **sabrinassantos/sabrinassantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
