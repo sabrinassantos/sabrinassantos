@@ -1,5 +1,13 @@
-### Hi there 👋
+<img src="/images/Sabrina santos.png">
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinassantos&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=sabrinassantos&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 <!--
 **sabrinassantos/sabrinassantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
